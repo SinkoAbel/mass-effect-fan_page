@@ -1,0 +1,240 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+
+* {
+    font-family: 'Popins', sans-serif;
+}
+
+.logo {
+    height: 4rem;
+    margin-left: 40px;
+    margin-right: 30px;
+}
+
+
+.navi ul li {
+    font-weight: bold;
+    color: white;
+    padding-right: 30px;
+}
+
+
+.termek-row {
+    padding-top: 150px;
+    text-align: center;
+}
+
+.termek-row-utolso {
+    padding-top: 120px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    text-align: center;
+}
+
+.termek_cim {
+    text-align: left;
+    margin-left: 20px;
+    padding-top: 10px;
+    font-weight: 400;
+}
+
+
+.termek_ar {
+    text-align: left;
+    margin-left: 20px;
+    font-weight: 900;
+    font-size: 20px;
+}
+
+
+.footer-hatter {
+    background-color: rgb(184, 184, 184);
+}
+
+.ea_footer, .bioware_footer {
+    text-align: center;
+}
+
+.footer-image {
+    height: 4rem;
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+.copyright {
+    margin-top: 60px;
+    font-weight: 900;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.footer-image-bioware {
+    margin-top: 40px;
+    text-align: center;
+}
+
+
+.termek-es-meret_nagy {
+    padding-top: 200px;
+    padding-bottom: 120px;
+}
+
+.termek-kep_nagy {
+    position: center;
+}
+
+
+.termek-es-meret_nagy h2 {
+    font-weight: 900;
+    font-size: 45px;
+    margin-right: 20px;
+}
+
+
+.rendeles-box_nagy {
+    padding: 10px 16px 50px 16px;
+    background-color: #f2f2f2;
+    height: 300px;
+    width: 500px;
+    margin-top: 10px;
+}
+
+.rendeles-box_nagy_ora {
+    padding: 10px 16px 50px 16px;
+    background-color: #f2f2f2;
+    height: 300px;
+    width: 500px;
+    margin-top: 100px;
+}
+
+
+.termek_box-ar_nagy {
+    font-weight: 900;
+    font-size: 40px;
+
+}
+
+.elerheto {
+    font-weight: 400;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+
+.kosar-gomb_nagy {
+    margin-top: 100px;
+}
+
+.katt_nagy {
+    font-weight: 900;
+    font-size: 25px;
+    background-color: darkorange;
+    border-color: orange;
+    border-radius: 60px;
+}
+
+
+
+
+.termek-es-meret_kicsi {
+    padding-top: 200px;
+    padding-bottom: 120px;
+}
+
+.termek-kep_kicsi {
+    position: center;
+    text-align: center;
+}
+
+
+.termek-es-meret_kicsi h2 {
+    font-weight: 900;
+    font-size: 45px;
+    margin-right: 20px;
+    text-align: center;
+}
+
+
+.rendeles-box_kicsi {
+    margin: 0 auto;
+    padding: 10px 15px 50px 16px;
+    background-color: #f2f2f2;
+    height: 300px;
+    width: 420px;
+    margin-top: 10px;
+}
+
+
+.termek_box-ar_kicsi {
+    font-weight: 900;
+    font-size: 40px;
+
+}
+
+.kosar-gomb_kicsi {
+    margin-top: 100px;
+}
+
+.katt_kicsi {
+    font-weight: 900;
+    font-size: 25px;
+    background-color: darkorange;
+    border-color: orange;
+    border-radius: 60px;
+}
+
+.Detail_warning {
+    color: red;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.termek_leiras {
+    font-weight: 400;
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+.kiemelt_szoveg {
+    font-weight: 900;
+}
+
+
+.Capital {
+  font-weight: 900;
+    font-size: 30px;
+}
+
+.kiemelt_felsorolas {
+    font-weight: 900;
+}
+
+.kiemelt_felsorolas a {
+    text-decoration: none;
+    color: lightseagreen;
+}
+
+.kiemelt_felsorolas a:hover {
+    color: mediumseagreen;
+}
+
+
+
+
+
+
+

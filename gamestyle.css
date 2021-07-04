@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700;800&display=swap');
+
+* {
+    font-family: 'Popins', sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+.logo {
+    height: 4rem;
+    margin-left: 40px;
+    margin-right: 30px;
+}
+
+
+.navi ul li {
+    font-weight: bold;
+    color: white;
+    padding-right: 30px;
+}
+
+
+body, html {
+    height: 100%;
+}
+
+
+.background {
+    background-image: url("pictures/the-game/background.jpg");
+    height: 100%;
+    -webkit-background-size: cover;
+    background-position: center 90px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.about {
+    background-color: black;
+}
+
+.about h2 {
+    font-size: 80px;
+    font-weight: 900;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.bal {
+    color: white;
+    font-weight: 400;
+}
+
+.kiemelt1 {
+    font-weight: 900;
+    color: red;
+}
+
+.kiemelt2 {
+    font-weight: 900;
+    color: blue;
+}
+
+.jobb {
+    color: white;
+    font-weight: 400;
+}
+
+.szoveg {
+    padding-bottom: 80px;
+}
+
+
+.videos {
+    padding-top: 40px;
+    padding-bottom: 40px;
+    background-color: #252525;
+}
+
+.video1 {
+    text-align: center;
+}
+
+.video2 {
+    text-align: center;
+}
+
+.video3 {
+    background-color: #252525;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.footer-hatter {
+    background-color: rgb(184, 184, 184);
+}
+
+.ea_footer, .bioware_footer {
+    text-align: center;
+}
+
+.footer-image {
+    height: 4rem;
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+.copyright {
+    margin-top: 60px;
+    font-weight: 900;
+    text-align: center;
+    font-size: 20px;
+}
+
+
+.footer-image-bioware {
+    margin-top: 40px;
+    text-align: center;
+}
+
+

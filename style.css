@@ -95,8 +95,9 @@
     margin-top: 10px;
     text-transform: uppercase;
     letter-spacing: 2px;
-    transition: 0.5s;
+    transition: 1s;
     font-weight: bold;
+    border-radius: 5px;
 }
 
 .text a:hover {
